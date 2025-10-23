@@ -7,19 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing my Ph.D. in computer vision and robotics in agricultural settings at the Photogrammetry Lab at the University of Bonn.
+I’m a Ph.D. student in Computer Vision and Robotics at the Photogrammetry and Robotics Lab of the University of Bonn, where I explore how 3D reconstruction can help us better understand and automate agricultural environments.
 
-I developed my passion for the field as a young tinkerer, thanks to Arduino, which enabled me to delve into the world of small robots early on.
+My passion for robotics began early on with Arduino projects that sparked my fascination for developing autonomous systems.
+To build a strong foundation, I pursued a B.Eng. in Automation and Robotics in Germany, gaining hands-on experience in informatics, electronics, and mechanics with a thesis on object detection and tracking. Alongside the Bachelor I also worked at the Fraunhofer Institute, tackling localization and navigation challenges for service robots.
 
-This led me wanting to deepen my theorical knowledge so I moved to Germany for to do a B.Eng. in Automation and Robotics. Here I learned the foundations of Informatics, Electronics and Mechanics, and aquired computer vision skills during my B.Eng. thesis on object detection and tracking in images. While studying I worked for Fraunhofer Institute for Manufacturing Engineering and Automation, where I tackled problems about localization, mapping and navigation for service robots.
+As deep learning began transforming computer vision, I wanted to dive deeper into the field. I moved to Rome for a M.Sc. in Artificial Intelligence and Robotics at La Sapienza University, where I deepened my knowledge of computer vision methods and robotics skills, leading to a thesis on Perception and path planning for Mobile Robots.
 
-Due to deep learning becoming the most promising approach for computer vision in those years I decided to pursue my M.Sc. in Artificial Intelligence and Robotics at “La Sapienza” University Rome, Italy. There I deepened my knowledge of computer vision methods and robotics skills, leading to a thesis on Perception and path planning for Mobile Robots.
+Over time, I became increasingly fascinated by how neural networks can interpret and reconstruct the 3D world. That curiosity brought me to Bonn, where my Ph.D. now combines my love for robotics, AI, and the outdoors, applying cutting-edge vision techniques to real-world problems in agriculture.
 
-During my masters my interest for neural based vision increased due to the rapid growth of the field. I was eagear to learn more about the recent advancements in the field and discover the academic environment. Therefore, I started my PhD at the University of Bonn, focusing on 3D reconstruction methods applied to agriculture.   
+## <i class="fa fa-fw fa-rss "></i> News ##
 
-<!-- Actually I am ending my PhD path and I am willing to discover new and innovative working environemnts that will enable me to ...... -->
+<ul style="width: auto; height: 300px; overflow: auto">
 
-Interests
-======
-During my educational journey I discovered many different fields, out of which the ones that engage me the most are:
-3D reconstruction, 3D segmentaion, 3D mapping and motion planning.
+  <li> <b>[Oct. 2024]</b> IEEE/RSJ IROS - Best Paper Award on Agri-Robotics for our work “BonnBeetClouds3D: A Dataset Towards Point Cloud-Based Organ-Level Phenotyping of Sugar Beet Plants Under Real Field Conditions”.</li>
+  
+  <li> <b>[May. 2024]</b> IEEE ICRA - Finalist of the Best Service Robotics Paper for our work “Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots”.</li>
+
+  <li> <b>[Dec. 2023]</b> IEEE RA-L - Honorable Mention for “High Precision Leaf Instance Segmentation in Point Clouds Obtained Under Real Field Conditions”.</li>
+
+  <li> <b>[Jun. 2023]</b> IEEE ICRA - Outstanding Automation Paper Award for “Target-Aware Implicit Mapping for Agricultural Crop Inspection”.</li> 
+
+  <li> <b>[Nov. 2022]</b> IEEE/RSJ IROS - Finalist of the Best Paper Award on Agri-Robotics for our work “Constrastive 3D Shape Completion and Reconstruction for Agricultural Robots using RGB-D Frames”. </li>
+
+  <li> <b>[May. 2022]</b> IEEE ICRA - Outstanding Automation Paper Award for “Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching”.</li>
+
+</ul>
