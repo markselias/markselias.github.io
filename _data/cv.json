@@ -1,152 +1,251 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Elias Marks",
+    "email": "marks.eliasariel@gmail.com",
+    "website": "https://markselias.github.io",
+    "summary": "PhD Student and Research Assistant at the Center for Robotics, University of Bonn. Research in computer vision for agricultural robotics: 3D reconstruction, point cloud processing, semantic scene understanding and neural rendering.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Nußallee 15, 53115 Bonn",
+      "postalCode": "53115",
+      "city": "Bonn",
+      "countryCode": "DE",
+      "region": "North Rhine-Westphalia"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "GJiaCY4AAAAJ",
+        "url": "https://scholar.google.com/citations?user=GJiaCY4AAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "eliasmarks",
+        "url": "https://www.linkedin.com/in/eliasmarks"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://orcid.org/0000-0003-1322-9317"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Bonn",
+      "position": "Researcher — Computer Vision for Agricultural Robotics",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "Research and development on 3D reconstruction, point cloud processing and perception methods for agricultural robotics."
+    },
+    {
+      "company": "University of Bonn",
+      "position": "MSc Thesis Supervisor",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Supervised MSc theses on target-aware implicit mapping and fruit tracking using high-precision point clouds."
+    },
+    {
+      "company": "Fraunhofer IPA",
+      "position": "Student Trainee — Localization, Mapping and Navigation for Service Robots",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": ""
+    },
+    {
+      "company": "Fraunhofer IPA",
+      "position": "Intern — Localization, Mapping and Navigation on Single Board Computers",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": ""
+    },
+    {
+      "company": "BMW",
+      "position": "Intern — Basic Engineering Training",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": ""
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Bonn",
+      "area": "PhD in Computer Vision and Robotics for Agriculture",
+      "studyType": "PhD",
+      "startDate": "2021",
+      "endDate": "now"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "”La Sapienza” University of Rome",
+      "area": "Master of Science in Artificial Intelligence and Robotics",
+      "studyType": "MSc",
+      "startDate": "2018",
+      "endDate": "2021"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Hochschule Heilbronn",
+      "area": "Bachelor of Engineering in Automation and Robotics",
+      "studyType": "BEng",
+      "startDate": "2013",
+      "endDate": "2017"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "title": "Best Poster Award Young Researchers",
+      "date": "2025",
+      "awarder": "European Conference on Precision Agriculture",
+      "summary": "Exploring the potential of 4D plant phenotyping for automated crop genotype differentiation, J. Boemer et al."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "title": "Faculty Award for Geodesy",
+      "date": "2024",
+      "awarder": "Faculty of Agricultural, Nutritional and Engineering Sciences, University of Bonn",
+      "summary": "PhenoBench: A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain, J. Weyler et al."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "title": "Best Agri-Robotics Paper Award",
+      "date": "2024",
+      "awarder": "IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)",
+      "summary": "BonnBeetClouds3D: A Dataset Towards Point Cloud-Based Organ-Level Phenotyping of Sugar Beet Plants, E. Marks et al."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "title": "Best Paper Award",
+      "date": "2024",
+      "awarder": "IROS Workshop on Agricultural Robotics for Sustainable Futures",
+      "summary": "BonnBeetClouds3D: A Dataset Towards Point Cloud-Based Organ-Level Phenotyping of Sugar Beet Plants, E. Marks et al."
+    },
+    {
+      "title": "Finalist: Best Service Robotics Paper Award",
+      "date": "2024",
+      "awarder": "IEEE Intl. Conf. on Robotics and Automation (ICRA)",
+      "summary": "Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots, F. Magistri et al."
+    },
+    {
+      "title": "Honorable Mention: Best Paper Award",
+      "date": "2023",
+      "awarder": "IEEE Robotics and Automation Letters (RA-L)",
+      "summary": "High Precision Leaf Instance Segmentation in Point Clouds Obtained Under Real Field Conditions, E. Marks et al."
+    },
+    {
+      "title": "Best Automation Paper Award",
+      "date": "2023",
+      "awarder": "IEEE Intl. Conf. on Robotics and Automation (ICRA)",
+      "summary": "Target-Aware Implicit Mapping for Agricultural Crop Inspection, S. Kelly et al."
+    },
+    {
+      "title": "Finalist: Best Agri-Robotics Paper Award",
+      "date": "2022",
+      "awarder": "IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)",
+      "summary": "Contrastive 3D Shape Completion and Reconstruction for Agricultural Robots using RGB-D Frames, F. Magistri et al."
+    },
+    {
+      "title": "Best Automation Paper Award",
+      "date": "2022",
+      "awarder": "IEEE Intl. Conf. on Robotics and Automation (ICRA)",
+      "summary": "Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching, E. Marks et al."
     }
   ],
-  "presentations": [
+  "skills": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Computer Vision",
+      "level": "Master",
+      "keywords": [
+        "3D reconstruction",
+        "3D segmentation",
+        "3D point cloud processing",
+        "Structure from motion",
+        "Neural rendering",
+        "NeRF"
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Robotics",
+      "level": "Advanced",
+      "keywords": [
+        "3D scan registration",
+        "3D mapping",
+        "Motion planning",
+        "Embedded systems",
+        "Arduino"
+      ]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "C++",
+        "Bash"
+      ]
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Tools & Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "PyTorch",
+        "Open3D",
+        "OpenCV",
+        "ROS",
+        "Git",
+        "Docker",
+        "LaTeX",
+        "CloudCompare",
+        "Blender",
+        "Fusion360",
+        "CATIA"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "Technical writing in LaTeX",
+        "CAD",
+        "UAV piloting (A1,A2,A3)",
+        "soldering",
+        "welding"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native"
+    },
+    {
+      "language": "German",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Mobile Sensing and Robotics Project",
+      "institution": "University of Bonn",
+      "date": "2024-2025",
+      "role": "Full year project supervision",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Sensors and State Estimation",
+      "institution": "University of Bonn",
+      "date": "2021-2025",
+      "role": "Tutorial",
       "description": ""
-    }
-  ],
-  "portfolio": [
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "Advanced Techniques for Mobile Sensing and Robotics",
+      "institution": "University of Bonn",
+      "date": "since 2021",
+      "role": "Tutorial",
+      "description": ""
     }
   ]
 }
