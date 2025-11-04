@@ -19,6 +19,7 @@ Over time, I became increasingly fascinated by how neural networks can interpret
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Oct. 2025]</b> IEEE/CVF ICCV - Our paper “Tree Skeletonization from 3D Point Clouds by Denoising Diffusion” got accepted at ICCV 2025.</li>
 
   <li> <b>[Oct. 2024]</b> IEEE/RSJ IROS - Best Paper Award on Agri-Robotics for our work “BonnBeetClouds3D: A Dataset Towards Point Cloud-Based Organ-Level Phenotyping of Sugar Beet Plants Under Real Field Conditions”.</li>
   
