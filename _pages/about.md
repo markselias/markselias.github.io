@@ -13,7 +13,7 @@ My work bridges research and application by designing novel algorithms that tran
 
 My passion for robotics started with early Arduino projects and grew through a B.Eng. in Automation and Robotics in Germany, where I explored object detection and tracking and worked at Fraunhofer on localization and navigation for service robots. Later, during my M.Sc. in AI and Robotics in Rome, I deepened my expertise in computer vision and motion planning, completing a thesis on perception and path planning for mobile robots.
 
-My research has been recognized with multiple Best Paper Awards at the leading robotics and perception venues, including ICRA, IROS, and RA-L.
+My research has been recognized with multiple Best Paper Awards at leading robotics and perception venues, including ICRA, IROS, and RA-L.
 
 Passionate about developing new ideas to solve concrete problems, I aim to apply my expertise in 3D computer vision, perception, and neural reconstruction to build intelligent, real-world systems.
 
