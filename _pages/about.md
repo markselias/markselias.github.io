@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student in Computer Vision and Robotics at the Photogrammetry and Robotics Lab of the University of Bonn, where I explore how 3D reconstruction can help us better understand and automate agricultural environments.
+I’m a Ph.D. student in Computer Vision and Robotics at the Photogrammetry and Robotics Lab of the University of Bonn, where I develop 3D perception and reconstruction methods to help us understand and automate complex real-world environments such as agricultural environments.
 
-My passion for robotics began early on with Arduino projects that sparked my fascination for developing autonomous systems.
-To build a strong foundation, I pursued a B.Eng. in Automation and Robotics in Germany, gaining hands-on experience in informatics, electronics, and mechanics with a thesis on object detection and tracking. Alongside the Bachelor I also worked at the Fraunhofer Institute, tackling localization and navigation challenges for service robots.
+My work bridges research and application by designing novel algorithms that transform multi-sensor data into 3D representations that can be leveraged to solve real-world problems autonomously. This includes experience with both deep learning and traditional methods for 3D vision, multi-view geometry, and large-scale field data collection and calibration.
 
-As deep learning began transforming computer vision, I wanted to dive deeper into the field. I moved to Rome for a M.Sc. in Artificial Intelligence and Robotics at La Sapienza University, where I deepened my knowledge of computer vision methods and robotics skills, leading to a thesis on Perception and path planning for Mobile Robots.
+My passion for robotics started with early Arduino projects and grew through a B.Eng. in Automation and Robotics in Germany, where I explored object detection and tracking and worked at Fraunhofer on localization and navigation for service robots. Later, during my M.Sc. in AI and Robotics in Rome, I deepened my expertise in computer vision and motion planning, completing a thesis on perception and path planning for mobile robots.
 
-Over time, I became increasingly fascinated by how neural networks can interpret and reconstruct the 3D world. That curiosity brought me to Bonn, where my Ph.D. now combines my love for robotics, AI, and the outdoors, applying cutting-edge vision techniques to real-world problems in agriculture.
+My research has been recognized with multiple Best Paper Awards at the leading robotics and perception venues, including ICRA, IROS, and RA-L.
+
+Passionate about developing new ideas to solve concrete problems, I aim to apply my expertise in 3D computer vision, perception, and neural reconstruction to build intelligent, real-world systems.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
